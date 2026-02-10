@@ -1,0 +1,5 @@
+{
+  "name": "Bingo Master Lite",
+  "description": "A high-performance BINGO client mobile app that synchronizes in real-time with a remote game server.",
+  "requestFramePermissions": []
+}
